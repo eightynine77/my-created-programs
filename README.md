@@ -1,6 +1,8 @@
 # my created programs
 this repository serves as a hub of my created programs over the years. you can find videos showcasing these programs on [my channel](https://www.youtube.com/playlist?list=PLGIiyPI0qMlQepZQsgGk7Ra3wB5TW4xJj).
 
+for my mobile apps, you can visit [here](https://github.com/eightynine77/my-created-apps)
+
 # how to download
 ### step 1 - pick any program you want to download
 <img src="https://raw.githubusercontent.com/eightynine77/my-created-programs/refs/heads/main/images/step%201.png" width="622" height="407">
